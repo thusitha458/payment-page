@@ -1,3 +1,9 @@
+# Payment Page - Responsive
+
+A simple responsive payment page, developed using **React** and **Redux**.
+
+![Application](screenshots/screenshot.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
